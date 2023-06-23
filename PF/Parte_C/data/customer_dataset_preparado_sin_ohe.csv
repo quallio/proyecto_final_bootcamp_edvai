@@ -1,0 +1,623 @@
+orderAmount,orderState,paymentMethodRegistrationFailure,paymentMethodType,paymentMethodProvider,paymentMethodIssuer,transactionAmount,transactionFailed,fraudulent,emailDomain,emailProvider,customerIPAddressSimplified,sameCity
+"(9.999, 18.2]",pending,True,card,JCB,Citizens First Banks,"(9.999, 25.0]",False,0,com,yahoo,only_numbers,yes
+"(18.2, 30.4]",fulfilled,True,other,VISA,Solace Banks,"(25.0, 41.0]",False,1,com,yahoo,only_numbers,no
+"(39.0, 47.0]",fulfilled,False,card,VISA,Vertex Bancorp,"(41.0, 75.0]",False,0,com,yahoo,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,"(9.999, 25.0]",False,0,com,yahoo,digits_and_letters,no
+"(39.0, 47.0]",fulfilled,False,card,Mastercard,Vertex Bancorp,"(41.0, 75.0]",True,1,com,other,only_numbers,no
+"(30.4, 39.0]",failed,False,other,American Express,Bastion Banks,"(25.0, 41.0]",False,1,com,other,only_numbers,no
+"(18.2, 30.4]",fulfilled,False,card,Maestro,Her Majesty Trust,"(9.999, 25.0]",True,1,com,other,only_numbers,no
+"(18.2, 30.4]",fulfilled,False,card,JCB,Fountain Financial Inc.,"(9.999, 25.0]",False,1,com,gmail,only_numbers,no
+"(30.4, 39.0]",fulfilled,False,card,JCB,Bastion Banks,"(9.999, 25.0]",True,0,com,other,digits_and_letters,unknown
+"(18.2, 30.4]",fulfilled,False,card,Discover,His Majesty Bank Corp.,"(9.999, 25.0]",False,1,info,other,only_numbers,no
+"(18.2, 30.4]",fulfilled,False,card,Voyager,Grand Credit Corporation,"(25.0, 41.0]",False,1,com,yahoo,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,other,American Express,Grand Credit Corporation,"(25.0, 41.0]",False,0,com,hotmail,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,other,JCB,His Majesty Bank Corp.,"(9.999, 25.0]",False,0,org,other,digits_and_letters,no
+"(47.0, 353.0]",failed,False,other,VISA,His Majesty Bank Corp.,"(41.0, 75.0]",False,0,com,other,only_numbers,no
+"(39.0, 47.0]",fulfilled,False,card,JCB,Bastion Banks,"(41.0, 75.0]",True,0,info,other,digits_and_letters,no
+"(47.0, 353.0]",fulfilled,False,card,VISA,Grand Credit Corporation,"(41.0, 75.0]",False,1,com,gmail,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,card,JCB,Solace Banks,"(41.0, 75.0]",True,0,com,yahoo,only_numbers,no
+"(30.4, 39.0]",fulfilled,False,other,JCB,weird,"(41.0, 75.0]",False,0,com,other,only_numbers,no
+"(18.2, 30.4]",pending,False,card,VISA,weird,"(41.0, 75.0]",False,0,com,hotmail,digits_and_letters,no
+"(39.0, 47.0]",fulfilled,False,other,VISA,weird,"(25.0, 41.0]",False,0,biz,other,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,card,JCB,weird,"(9.999, 25.0]",False,0,net,other,only_numbers,no
+"(30.4, 39.0]",failed,False,card,VISA,Her Majesty Trust,"(25.0, 41.0]",True,0,com,other,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,other,Voyager,Bulwark Trust Corp.,"(25.0, 41.0]",False,0,com,hotmail,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,card,Discover,Her Majesty Trust,"(41.0, 75.0]",True,1,com,hotmail,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,other,Mastercard,His Majesty Bank Corp.,"(41.0, 75.0]",False,0,com,yahoo,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,card,Discover,weird,"(25.0, 41.0]",False,0,biz,other,only_numbers,unknown
+"(18.2, 30.4]",pending,False,card,American Express,Bastion Banks,"(41.0, 75.0]",False,0,com,gmail,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,Maestro,Vertex Bancorp,"(41.0, 75.0]",True,0,com,other,digits_and_letters,unknown
+"(9.999, 18.2]",pending,False,card,VISA,Her Majesty Trust,"(41.0, 75.0]",False,0,com,yahoo,only_numbers,no
+"(39.0, 47.0]",failed,False,card,Discover,Vertex Bancorp,"(9.999, 25.0]",False,1,com,gmail,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,other,VISA,Citizens First Banks,"(9.999, 25.0]",True,0,com,hotmail,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,card,VISA,Vertex Bancorp,"(9.999, 25.0]",True,0,com,hotmail,only_numbers,no
+"(9.999, 18.2]",fulfilled,False,card,VISA,Her Majesty Trust,"(9.999, 25.0]",True,1,weird,weird,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,card,Mastercard,Her Majesty Trust,"(9.999, 25.0]",False,0,com,hotmail,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,other,JCB,Her Majesty Trust,"(25.0, 41.0]",True,0,com,other,digits_and_letters,no
+"(39.0, 47.0]",fulfilled,False,card,VISA,Solace Banks,"(25.0, 41.0]",False,0,com,yahoo,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,other,VISA,weird,"(9.999, 25.0]",False,0,org,other,only_numbers,no
+"(9.999, 18.2]",fulfilled,False,other,JCB,Solace Banks,"(41.0, 75.0]",False,0,com,hotmail,digits_and_letters,unknown
+"(39.0, 47.0]",pending,False,card,JCB,Bastion Banks,"(9.999, 25.0]",False,0,com,other,digits_and_letters,no
+"(39.0, 47.0]",fulfilled,False,card,VISA,Her Majesty Trust,"(9.999, 25.0]",True,0,com,other,only_numbers,no
+"(9.999, 18.2]",fulfilled,False,card,Voyager,Fountain Financial Inc.,"(9.999, 25.0]",False,1,com,gmail,digits_and_letters,no
+"(39.0, 47.0]",fulfilled,False,card,Voyager,His Majesty Bank Corp.,"(25.0, 41.0]",False,0,com,other,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,JCB,Her Majesty Trust,"(41.0, 75.0]",True,0,com,other,only_numbers,unknown
+"(18.2, 30.4]",failed,False,card,VISA,Rose Bancshares,"(41.0, 75.0]",False,0,com,gmail,only_numbers,no
+"(39.0, 47.0]",fulfilled,False,other,JCB,Rose Bancshares,"(41.0, 75.0]",True,0,org,other,only_numbers,no
+"(30.4, 39.0]",fulfilled,False,other,Mastercard,His Majesty Bank Corp.,"(25.0, 41.0]",True,1,com,gmail,only_numbers,no
+"(30.4, 39.0]",fulfilled,False,card,American Express,Citizens First Banks,"(25.0, 41.0]",False,1,biz,other,only_numbers,no
+"(39.0, 47.0]",failed,True,other,Diners Club / Carte Blanche,Rose Bancshares,"(9.999, 25.0]",False,0,com,yahoo,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,other,VISA,weird,"(41.0, 75.0]",False,0,com,gmail,digits_and_letters,no
+"(39.0, 47.0]",fulfilled,False,card,VISA,His Majesty Bank Corp.,"(41.0, 75.0]",False,0,biz,other,only_numbers,no
+"(39.0, 47.0]",fulfilled,True,card,American Express,Vertex Bancorp,"(9.999, 25.0]",False,1,com,gmail,only_numbers,no
+"(39.0, 47.0]",fulfilled,False,card,VISA,Grand Credit Corporation,"(41.0, 75.0]",True,0,com,yahoo,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,other,Maestro,Solace Banks,"(41.0, 75.0]",False,0,com,yahoo,digits_and_letters,no
+"(30.4, 39.0]",fulfilled,False,card,Maestro,Vertex Bancorp,"(25.0, 41.0]",True,0,com,other,only_numbers,no
+"(39.0, 47.0]",fulfilled,True,card,Maestro,Bulwark Trust Corp.,"(25.0, 41.0]",False,0,com,gmail,digits_and_letters,no
+"(30.4, 39.0]",pending,False,card,VISA,Vertex Bancorp,"(9.999, 25.0]",False,1,com,yahoo,only_numbers,no
+"(9.999, 18.2]",fulfilled,False,card,Voyager,Vertex Bancorp,"(41.0, 75.0]",False,0,biz,other,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,other,JCB,Her Majesty Trust,"(25.0, 41.0]",False,1,com,gmail,only_numbers,no
+"(18.2, 30.4]",fulfilled,False,card,Maestro,Vertex Bancorp,"(25.0, 41.0]",False,0,com,gmail,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,"(41.0, 75.0]",False,0,com,hotmail,only_numbers,no
+"(9.999, 18.2]",fulfilled,False,card,JCB,Fountain Financial Inc.,"(41.0, 75.0]",False,1,com,other,only_numbers,no
+"(30.4, 39.0]",fulfilled,False,other,VISA,Grand Credit Corporation,"(25.0, 41.0]",False,0,com,yahoo,digits_and_letters,no
+"(39.0, 47.0]",fulfilled,False,card,VISA,Fountain Financial Inc.,"(41.0, 75.0]",False,1,weird,weird,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,card,Maestro,His Majesty Bank Corp.,"(25.0, 41.0]",False,0,com,yahoo,only_numbers,no
+"(18.2, 30.4]",fulfilled,False,card,VISA,Citizens First Banks,"(9.999, 25.0]",True,1,com,gmail,digits_and_letters,no
+"(30.4, 39.0]",fulfilled,False,card,Voyager,Bastion Banks,"(9.999, 25.0]",False,1,com,gmail,digits_and_letters,no
+"(30.4, 39.0]",failed,False,other,JCB,Solace Banks,"(25.0, 41.0]",True,0,com,other,only_numbers,no
+"(39.0, 47.0]",fulfilled,False,card,JCB,Fountain Financial Inc.,"(25.0, 41.0]",True,0,net,other,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,Maestro,Bastion Banks,"(25.0, 41.0]",False,1,com,other,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,card,VISA,Rose Bancshares,"(25.0, 41.0]",False,0,info,other,digits_and_letters,no
+"(30.4, 39.0]",fulfilled,False,card,Discover,Rose Bancshares,"(25.0, 41.0]",False,0,com,hotmail,only_numbers,no
+"(47.0, 353.0]",failed,False,other,JCB,Her Majesty Trust,"(9.999, 25.0]",False,0,com,yahoo,digits_and_letters,unknown
+"(9.999, 18.2]",fulfilled,False,other,VISA,Bastion Banks,"(25.0, 41.0]",True,0,org,other,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,"(25.0, 41.0]",True,0,com,gmail,only_numbers,no
+"(30.4, 39.0]",fulfilled,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,"(25.0, 41.0]",False,0,com,yahoo,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,card,VISA,Solace Banks,"(9.999, 25.0]",False,0,com,gmail,only_numbers,no
+"(9.999, 18.2]",failed,False,card,JCB,Bastion Banks,"(9.999, 25.0]",False,0,net,other,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,card,Discover,Rose Bancshares,"(9.999, 25.0]",False,0,com,other,only_numbers,no
+"(30.4, 39.0]",failed,False,card,American Express,Rose Bancshares,"(25.0, 41.0]",False,1,com,other,only_numbers,no
+"(18.2, 30.4]",fulfilled,False,card,VISA,His Majesty Bank Corp.,"(41.0, 75.0]",True,1,com,gmail,only_numbers,no
+"(39.0, 47.0]",fulfilled,False,card,Discover,Bulwark Trust Corp.,"(41.0, 75.0]",False,1,com,other,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,other,Maestro,Vertex Bancorp,"(9.999, 25.0]",False,0,com,hotmail,digits_and_letters,unknown
+"(39.0, 47.0]",fulfilled,False,other,JCB,Bulwark Trust Corp.,"(25.0, 41.0]",False,1,com,other,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,other,JCB,Citizens First Banks,"(25.0, 41.0]",False,1,org,other,digits_and_letters,unknown
+"(18.2, 30.4]",fulfilled,False,other,JCB,Citizens First Banks,"(25.0, 41.0]",False,1,com,other,only_numbers,unknown
+"(47.0, 353.0]",failed,False,card,Mastercard,Vertex Bancorp,"(41.0, 75.0]",True,1,org,other,only_numbers,no
+"(39.0, 47.0]",pending,False,card,VISA,Rose Bancshares,"(41.0, 75.0]",False,0,com,other,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,other,VISA,Her Majesty Trust,"(9.999, 25.0]",False,0,com,gmail,only_numbers,no
+"(47.0, 353.0]",failed,False,card,American Express,Solace Banks,"(9.999, 25.0]",True,1,com,hotmail,only_numbers,no
+"(47.0, 353.0]",pending,False,card,Maestro,Solace Banks,"(9.999, 25.0]",False,0,com,gmail,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,card,JCB,Citizens First Banks,"(25.0, 41.0]",False,1,com,hotmail,digits_and_letters,yes
+"(47.0, 353.0]",fulfilled,False,card,JCB,Vertex Bancorp,"(41.0, 75.0]",False,0,com,other,only_numbers,no
+"(30.4, 39.0]",fulfilled,False,card,Diners Club / Carte Blanche,Vertex Bancorp,"(9.999, 25.0]",True,0,com,other,digits_and_letters,no
+"(30.4, 39.0]",fulfilled,False,card,JCB,Citizens First Banks,"(9.999, 25.0]",False,1,com,other,only_numbers,no
+"(9.999, 18.2]",fulfilled,False,card,VISA,Her Majesty Trust,"(9.999, 25.0]",False,0,com,other,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,True,card,Maestro,His Majesty Bank Corp.,"(25.0, 41.0]",False,0,com,hotmail,only_numbers,no
+"(39.0, 47.0]",fulfilled,False,card,Voyager,Fountain Financial Inc.,"(9.999, 25.0]",True,1,biz,other,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,card,JCB,Her Majesty Trust,"(9.999, 25.0]",True,1,com,hotmail,only_numbers,unknown
+"(18.2, 30.4]",failed,False,card,JCB,Vertex Bancorp,"(9.999, 25.0]",False,1,com,gmail,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,card,Mastercard,Grand Credit Corporation,"(9.999, 25.0]",True,1,com,other,only_numbers,no
+"(18.2, 30.4]",fulfilled,True,card,VISA,Citizens First Banks,"(9.999, 25.0]",False,0,com,yahoo,only_numbers,no
+"(30.4, 39.0]",fulfilled,False,card,American Express,Grand Credit Corporation,"(9.999, 25.0]",False,0,com,gmail,digits_and_letters,no
+"(47.0, 353.0]",fulfilled,False,card,Maestro,Fountain Financial Inc.,"(25.0, 41.0]",False,1,net,other,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,card,VISA,Her Majesty Trust,"(9.999, 25.0]",True,1,com,other,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,card,Diners Club / Carte Blanche,Citizens First Banks,"(9.999, 25.0]",False,1,com,yahoo,digits_and_letters,no
+"(39.0, 47.0]",fulfilled,False,card,JCB,His Majesty Bank Corp.,"(41.0, 75.0]",False,1,info,other,only_numbers,no
+"(39.0, 47.0]",fulfilled,False,card,American Express,Grand Credit Corporation,"(41.0, 75.0]",False,0,com,gmail,only_numbers,no
+"(9.999, 18.2]",fulfilled,False,other,JCB,His Majesty Bank Corp.,"(41.0, 75.0]",False,0,info,other,digits_and_letters,no
+"(30.4, 39.0]",fulfilled,False,card,VISA,Citizens First Banks,"(9.999, 25.0]",False,1,weird,weird,only_numbers,no
+"(30.4, 39.0]",fulfilled,False,other,VISA,Fountain Financial Inc.,"(25.0, 41.0]",True,0,com,hotmail,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,American Express,Bastion Banks,"(25.0, 41.0]",False,0,org,other,only_numbers,no
+"(18.2, 30.4]",fulfilled,False,other,Discover,weird,"(41.0, 75.0]",True,0,com,gmail,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,Voyager,weird,"(41.0, 75.0]",False,1,info,other,digits_and_letters,unknown
+"(9.999, 18.2]",fulfilled,False,card,VISA,Rose Bancshares,"(41.0, 75.0]",True,0,com,yahoo,only_numbers,unknown
+"(30.4, 39.0]",failed,False,card,JCB,Vertex Bancorp,"(41.0, 75.0]",False,0,com,other,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,card,JCB,Grand Credit Corporation,"(25.0, 41.0]",False,1,com,gmail,only_numbers,no
+"(9.999, 18.2]",fulfilled,True,other,Discover,Bulwark Trust Corp.,"(41.0, 75.0]",False,0,com,other,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,card,Discover,Her Majesty Trust,"(41.0, 75.0]",False,0,org,other,digits_and_letters,no
+"(39.0, 47.0]",fulfilled,False,card,Mastercard,His Majesty Bank Corp.,"(41.0, 75.0]",True,0,com,yahoo,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,card,VISA,Her Majesty Trust,"(41.0, 75.0]",False,1,com,other,only_numbers,no
+"(30.4, 39.0]",fulfilled,True,card,JCB,Fountain Financial Inc.,"(41.0, 75.0]",False,1,com,other,digits_and_letters,unknown
+"(9.999, 18.2]",fulfilled,False,card,VISA,Fountain Financial Inc.,"(25.0, 41.0]",False,1,com,yahoo,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,card,Voyager,Rose Bancshares,"(25.0, 41.0]",False,0,com,other,digits_and_letters,no
+"(39.0, 47.0]",pending,False,card,VISA,Vertex Bancorp,"(9.999, 25.0]",True,0,com,yahoo,digits_and_letters,unknown
+"(39.0, 47.0]",fulfilled,False,card,Diners Club / Carte Blanche,Solace Banks,"(9.999, 25.0]",False,0,com,yahoo,only_numbers,no
+"(18.2, 30.4]",fulfilled,True,card,VISA,Citizens First Banks,"(9.999, 25.0]",False,0,com,other,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,other,Diners Club / Carte Blanche,His Majesty Bank Corp.,"(41.0, 75.0]",False,1,biz,other,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,other,VISA,Rose Bancshares,"(9.999, 25.0]",False,0,net,other,digits_and_letters,no
+"(30.4, 39.0]",fulfilled,False,other,VISA,Vertex Bancorp,"(25.0, 41.0]",False,0,com,yahoo,only_numbers,no
+"(47.0, 353.0]",fulfilled,False,card,Maestro,Bastion Banks,"(9.999, 25.0]",True,1,com,hotmail,digits_and_letters,unknown
+"(47.0, 353.0]",fulfilled,False,card,Discover,Her Majesty Trust,"(9.999, 25.0]",False,0,com,hotmail,digits_and_letters,no
+"(47.0, 353.0]",fulfilled,True,other,JCB,Bastion Banks,"(25.0, 41.0]",False,0,com,other,digits_and_letters,unknown
+"(47.0, 353.0]",fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,"(25.0, 41.0]",False,0,com,yahoo,digits_and_letters,unknown
+"(30.4, 39.0]",fulfilled,True,other,Discover,Fountain Financial Inc.,"(41.0, 75.0]",False,1,com,gmail,digits_and_letters,no
+"(30.4, 39.0]",fulfilled,False,card,Discover,Her Majesty Trust,"(25.0, 41.0]",False,0,com,other,only_numbers,no
+"(39.0, 47.0]",fulfilled,True,card,VISA,Fountain Financial Inc.,"(9.999, 25.0]",False,0,biz,other,only_numbers,no
+"(30.4, 39.0]",fulfilled,False,card,Maestro,His Majesty Bank Corp.,"(25.0, 41.0]",False,1,com,other,only_numbers,no
+"(9.999, 18.2]",fulfilled,False,card,VISA,Bulwark Trust Corp.,"(41.0, 75.0]",True,0,biz,other,digits_and_letters,no
+"(30.4, 39.0]",failed,False,card,Voyager,Her Majesty Trust,"(41.0, 75.0]",False,0,com,hotmail,only_numbers,no
+"(47.0, 353.0]",fulfilled,True,card,Maestro,Citizens First Banks,"(9.999, 25.0]",False,0,com,other,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,True,card,Diners Club / Carte Blanche,Solace Banks,"(25.0, 41.0]",True,0,com,hotmail,only_numbers,no
+"(18.2, 30.4]",fulfilled,False,card,VISA,Grand Credit Corporation,"(25.0, 41.0]",False,1,com,other,only_numbers,no
+"(30.4, 39.0]",pending,False,card,Voyager,Her Majesty Trust,"(25.0, 41.0]",False,0,com,gmail,digits_and_letters,no
+"(30.4, 39.0]",fulfilled,False,card,JCB,Bulwark Trust Corp.,"(41.0, 75.0]",False,0,com,yahoo,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,other,VISA,Vertex Bancorp,"(25.0, 41.0]",False,1,com,hotmail,only_numbers,no
+"(39.0, 47.0]",fulfilled,True,other,American Express,Bastion Banks,"(9.999, 25.0]",True,0,com,gmail,only_numbers,unknown
+"(18.2, 30.4]",failed,False,other,Diners Club / Carte Blanche,Citizens First Banks,"(9.999, 25.0]",False,0,com,yahoo,only_numbers,no
+"(18.2, 30.4]",fulfilled,False,card,JCB,Bulwark Trust Corp.,"(9.999, 25.0]",True,0,com,hotmail,digits_and_letters,no
+"(30.4, 39.0]",fulfilled,False,card,VISA,Fountain Financial Inc.,"(9.999, 25.0]",True,0,org,other,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,other,VISA,Solace Banks,"(9.999, 25.0]",True,0,com,hotmail,digits_and_letters,no
+"(47.0, 353.0]",fulfilled,True,card,American Express,Solace Banks,"(9.999, 25.0]",True,0,com,other,digits_and_letters,no
+"(39.0, 47.0]",fulfilled,False,card,JCB,Grand Credit Corporation,"(9.999, 25.0]",False,1,weird,weird,digits_and_letters,no
+"(30.4, 39.0]",fulfilled,False,card,Voyager,Citizens First Banks,"(25.0, 41.0]",True,0,net,other,only_numbers,no
+"(39.0, 47.0]",fulfilled,False,card,VISA,Vertex Bancorp,"(25.0, 41.0]",False,1,biz,other,digits_and_letters,no
+"(9.999, 18.2]",fulfilled,False,card,Diners Club / Carte Blanche,Vertex Bancorp,"(9.999, 25.0]",False,0,com,gmail,digits_and_letters,unknown
+"(9.999, 18.2]",fulfilled,False,other,VISA,Fountain Financial Inc.,"(9.999, 25.0]",True,1,com,gmail,digits_and_letters,no
+"(9.999, 18.2]",failed,False,card,JCB,Citizens First Banks,"(9.999, 25.0]",True,0,com,gmail,digits_and_letters,unknown
+"(9.999, 18.2]",fulfilled,True,card,JCB,Grand Credit Corporation,"(9.999, 25.0]",False,0,com,other,digits_and_letters,no
+"(30.4, 39.0]",pending,True,card,American Express,Rose Bancshares,"(9.999, 25.0]",True,0,com,other,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,JCB,Solace Banks,"(9.999, 25.0]",False,0,com,other,only_numbers,no
+"(9.999, 18.2]",failed,False,other,VISA,Vertex Bancorp,"(41.0, 75.0]",True,1,com,yahoo,digits_and_letters,no
+"(47.0, 353.0]",failed,True,other,VISA,Bulwark Trust Corp.,"(41.0, 75.0]",False,1,com,other,digits_and_letters,no
+"(39.0, 47.0]",fulfilled,False,card,Voyager,Her Majesty Trust,"(41.0, 75.0]",False,0,net,other,digits_and_letters,no
+"(18.2, 30.4]",fulfilled,False,card,VISA,Fountain Financial Inc.,"(25.0, 41.0]",False,1,com,other,only_numbers,no
+"(18.2, 30.4]",fulfilled,False,other,VISA,Vertex Bancorp,"(9.999, 25.0]",True,1,biz,other,only_numbers,no
+"(39.0, 47.0]",fulfilled,False,card,Discover,weird,"(9.999, 25.0]",False,1,com,gmail,digits_and_letters,no
+"(39.0, 47.0]",failed,False,other,VISA,weird,"(25.0, 41.0]",False,1,com,other,only_numbers,no
+"(39.0, 47.0]",fulfilled,False,card,Mastercard,Rose Bancshares,"(25.0, 41.0]",True,0,com,other,only_numbers,no
+"(9.999, 18.2]",fulfilled,False,card,JCB,Bulwark Trust Corp.,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",failed,False,other,Discover,Bulwark Trust Corp.,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,JCB,Solace Banks,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,True,card,JCB,Fountain Financial Inc.,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,JCB,Vertex Bancorp,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,Maestro,Solace Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,True,other,Discover,Grand Credit Corporation,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,Voyager,Her Majesty Trust,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,Mastercard,Bulwark Trust Corp.,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,True,card,Diners Club / Carte Blanche,Vertex Bancorp,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,other,VISA,Grand Credit Corporation,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,Voyager,Grand Credit Corporation,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Maestro,Rose Bancshares,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,JCB,Rose Bancshares,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,Maestro,Bastion Banks,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",failed,False,card,VISA,Bastion Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,JCB,Bastion Banks,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,JCB,Her Majesty Trust,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,JCB,Fountain Financial Inc.,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,Voyager,Her Majesty Trust,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",pending,True,card,VISA,Her Majesty Trust,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,Mastercard,Vertex Bancorp,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,other,Voyager,Fountain Financial Inc.,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",failed,False,card,JCB,Her Majesty Trust,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,other,Diners Club / Carte Blanche,Bastion Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,VISA,Her Majesty Trust,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,VISA,Vertex Bancorp,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,True,other,JCB,Bastion Banks,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,other,Maestro,weird,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,Voyager,weird,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,Mastercard,weird,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,JCB,Citizens First Banks,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,Discover,His Majesty Bank Corp.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,other,Voyager,Her Majesty Trust,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,JCB,His Majesty Bank Corp.,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,other,JCB,Fountain Financial Inc.,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Diners Club / Carte Blanche,weird,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Voyager,Bulwark Trust Corp.,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",failed,True,other,Mastercard,weird,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,other,American Express,Rose Bancshares,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",pending,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,True,card,VISA,Fountain Financial Inc.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,Discover,Her Majesty Trust,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,True,card,JCB,Citizens First Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,JCB,Bastion Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,True,card,Voyager,His Majesty Bank Corp.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,American Express,Bulwark Trust Corp.,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,True,card,VISA,Rose Bancshares,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,JCB,Fountain Financial Inc.,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,other,JCB,weird,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,VISA,weird,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",pending,False,card,VISA,Bulwark Trust Corp.,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,JCB,Grand Credit Corporation,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Voyager,Grand Credit Corporation,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,VISA,Citizens First Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Mastercard,Grand Credit Corporation,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",pending,False,card,VISA,Her Majesty Trust,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,JCB,Rose Bancshares,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",pending,False,other,Voyager,Grand Credit Corporation,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",failed,False,card,JCB,Fountain Financial Inc.,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,other,JCB,Fountain Financial Inc.,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,VISA,His Majesty Bank Corp.,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",failed,False,other,JCB,Vertex Bancorp,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,Voyager,Vertex Bancorp,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",failed,False,card,Discover,Grand Credit Corporation,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,Maestro,His Majesty Bank Corp.,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,other,Maestro,Fountain Financial Inc.,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,American Express,weird,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",failed,False,card,JCB,weird,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,VISA,weird,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,VISA,Grand Credit Corporation,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",failed,False,card,JCB,Grand Credit Corporation,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,VISA,Solace Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,JCB,His Majesty Bank Corp.,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,True,other,VISA,Fountain Financial Inc.,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,VISA,His Majesty Bank Corp.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,Voyager,Solace Banks,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,JCB,Rose Bancshares,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,Diners Club / Carte Blanche,Solace Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,other,Discover,Bulwark Trust Corp.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,Maestro,Citizens First Banks,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,JCB,Fountain Financial Inc.,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,VISA,Citizens First Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,JCB,Her Majesty Trust,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,American Express,Bastion Banks,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,JCB,Her Majesty Trust,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,Voyager,His Majesty Bank Corp.,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,JCB,Rose Bancshares,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,other,Mastercard,Solace Banks,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",pending,False,other,Diners Club / Carte Blanche,Her Majesty Trust,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,other,VISA,weird,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,other,Mastercard,Her Majesty Trust,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,JCB,Bulwark Trust Corp.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Discover,Rose Bancshares,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,other,Voyager,Fountain Financial Inc.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,VISA,Solace Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,other,Voyager,His Majesty Bank Corp.,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,other,JCB,Her Majesty Trust,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",failed,True,other,Voyager,Vertex Bancorp,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Mastercard,Solace Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Diners Club / Carte Blanche,Citizens First Banks,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,JCB,Bulwark Trust Corp.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,True,card,JCB,Fountain Financial Inc.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,VISA,Bulwark Trust Corp.,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Mastercard,Bulwark Trust Corp.,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,Discover,Solace Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,Maestro,weird,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,Voyager,Bastion Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,VISA,Bastion Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,Maestro,Her Majesty Trust,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",pending,False,other,Voyager,Fountain Financial Inc.,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,Voyager,Solace Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,JCB,Solace Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,other,Maestro,Bulwark Trust Corp.,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,Maestro,Vertex Bancorp,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",pending,False,card,Diners Club / Carte Blanche,Grand Credit Corporation,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,JCB,Fountain Financial Inc.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Diners Club / Carte Blanche,Rose Bancshares,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,True,card,VISA,His Majesty Bank Corp.,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",pending,False,card,Diners Club / Carte Blanche,Vertex Bancorp,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,Maestro,Grand Credit Corporation,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,other,Diners Club / Carte Blanche,His Majesty Bank Corp.,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,VISA,Rose Bancshares,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,VISA,Her Majesty Trust,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,True,card,Discover,Her Majesty Trust,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",failed,False,other,VISA,His Majesty Bank Corp.,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",failed,False,card,Diners Club / Carte Blanche,Bastion Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,American Express,Citizens First Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,VISA,Bastion Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,American Express,Her Majesty Trust,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,Mastercard,Bastion Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",failed,False,card,Maestro,Rose Bancshares,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,other,Diners Club / Carte Blanche,Citizens First Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,other,American Express,Citizens First Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,VISA,weird,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,True,card,Maestro,weird,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,True,card,VISA,Solace Banks,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,other,JCB,Vertex Bancorp,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,Maestro,Vertex Bancorp,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",pending,False,other,JCB,His Majesty Bank Corp.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,other,Maestro,Grand Credit Corporation,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,Discover,Grand Credit Corporation,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,VISA,Bulwark Trust Corp.,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Mastercard,Rose Bancshares,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,True,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,VISA,weird,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,JCB,Bastion Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,other,VISA,Her Majesty Trust,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,JCB,Grand Credit Corporation,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,other,VISA,Her Majesty Trust,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",failed,False,other,American Express,Her Majesty Trust,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,False,card,JCB,His Majesty Bank Corp.,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,Voyager,weird,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,Discover,weird,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,False,card,Voyager,weird,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,card,JCB,Vertex Bancorp,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",failed,False,card,JCB,Fountain Financial Inc.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",failed,False,card,Diners Club / Carte Blanche,Bastion Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,Maestro,Citizens First Banks,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",failed,False,other,JCB,Solace Banks,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,False,other,VISA,Vertex Bancorp,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,Voyager,Citizens First Banks,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,card,American Express,Bulwark Trust Corp.,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,False,card,JCB,His Majesty Bank Corp.,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,False,other,JCB,Bastion Banks,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",failed,False,card,VISA,Vertex Bancorp,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,True,other,VISA,Citizens First Banks,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",pending,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",failed,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",pending,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",failed,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",failed,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",failed,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",failed,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",failed,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",pending,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",pending,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",pending,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",failed,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",failed,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",pending,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",failed,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",pending,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",failed,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",failed,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(9.999, 18.2]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",failed,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(47.0, 353.0]",fulfilled,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(39.0, 47.0]",fulfilled,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(30.4, 39.0]",fulfilled,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+"(18.2, 30.4]",fulfilled,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(41.0, 75.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",True,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(9.999, 25.0]",False,2,weird,weird,only_numbers,unknown
+desconocido,,,,,,"(25.0, 41.0]",False,2,weird,weird,only_numbers,unknown

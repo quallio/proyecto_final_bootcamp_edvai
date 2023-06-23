@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/facuq/Documents/DATOS%20VIVOS/Bootcamp/Proyecto%20final/Parte_A/mlruns/233906058775337701/c1f7524f12ff4301baf508ed77b39a02/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '233906058775337701'
+lifecycle_stage: active
+run_id: c1f7524f12ff4301baf508ed77b39a02
+run_name: mercurial-whale-749
+run_uuid: c1f7524f12ff4301baf508ed77b39a02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687457350511
+status: 1
+tags: []
+user_id: facuq

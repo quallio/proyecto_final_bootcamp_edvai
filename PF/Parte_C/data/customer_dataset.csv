@@ -1,0 +1,624 @@
+orderAmount,orderState,paymentMethodRegistrationFailure,paymentMethodType,paymentMethodProvider,paymentMethodIssuer,transactionAmount,transactionFailed,fraudulent,emailDomain,emailProvider,customerIPAddressSimplified,sameCity
+18.0,pending,True,card,JCB 16 digit,Citizens First Banks,18,False,False,com,yahoo,only_numbers,yes
+26.0,fulfilled,True,bitcoin,VISA 16 digit,Solace Banks,26,False,True,com,yahoo,only_numbers,no
+45.0,fulfilled,False,card,VISA 16 digit,Vertex Bancorp,45,False,False,com,yahoo,digits_and_letters,no
+23.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,23,False,False,com,yahoo,digits_and_letters,no
+43.0,fulfilled,False,card,Mastercard,Vertex Bancorp,43,True,True,com,other,only_numbers,no
+33.0,failed,False,bitcoin,American Express,Bastion Banks,33,False,True,com,other,only_numbers,no
+24.0,fulfilled,False,card,Maestro,Her Majesty Trust,24,True,True,com,other,only_numbers,no
+25.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,24,False,True,com,gmail,only_numbers,no
+34.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,25,True,False,com,other,digits_and_letters,unknown
+26.0,fulfilled,False,card,Discover,His Majesty Bank Corp.,25,False,True,info,other,only_numbers,no
+25.0,fulfilled,False,card,Voyager,Grand Credit Corporation,34,False,True,com,yahoo,only_numbers,no
+71.0,fulfilled,False,apple pay,American Express,Grand Credit Corporation,26,False,False,com,hotmail,only_numbers,no
+66.0,fulfilled,False,apple pay,JCB 16 digit,His Majesty Bank Corp.,25,False,False,org,other,digits_and_letters,no
+69.0,failed,False,apple pay,VISA 16 digit,His Majesty Bank Corp.,71,False,False,com,other,only_numbers,no
+46.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,66,True,False,info,other,digits_and_letters,no
+68.0,fulfilled,False,card,VISA 13 digit,Grand Credit Corporation,69,False,True,com,gmail,only_numbers,no
+59.0,fulfilled,False,card,JCB 16 digit,Solace Banks,46,True,False,com,yahoo,only_numbers,no
+32.0,fulfilled,False,paypal,JCB 15 digit,B,68,False,False,com,other,only_numbers,no
+25.0,pending,False,card,VISA 16 digit,p,59,False,False,com,hotmail,digits_and_letters,no
+40.0,fulfilled,False,apple pay,VISA 13 digit,x,32,False,False,biz,other,only_numbers,no
+65.0,fulfilled,False,card,JCB 16 digit,e,25,False,False,net,other,only_numbers,no
+36.0,failed,False,card,VISA 16 digit,Her Majesty Trust,40,True,False,com,other,only_numbers,no
+68.0,fulfilled,False,bitcoin,Voyager,Bulwark Trust Corp.,40,False,False,com,hotmail,only_numbers,no
+74.0,fulfilled,False,card,Discover,Her Majesty Trust,65,True,True,com,hotmail,only_numbers,no
+55.0,fulfilled,False,paypal,Mastercard,His Majesty Bank Corp.,65,False,False,com,yahoo,digits_and_letters,no
+25.0,fulfilled,False,card,Discover,c,36,False,False,biz,other,only_numbers,unknown
+21.0,pending,False,card,American Express,Bastion Banks,68,False,False,com,gmail,only_numbers,unknown
+40.0,fulfilled,False,bitcoin,Maestro,Vertex Bancorp,74,True,False,com,other,digits_and_letters,unknown
+18.0,pending,False,card,VISA 13 digit,Her Majesty Trust,55,False,False,com,yahoo,only_numbers,no
+46.0,failed,False,card,Discover,Vertex Bancorp,25,False,True,com,gmail,digits_and_letters,no
+12.0,fulfilled,False,bitcoin,VISA 16 digit,Citizens First Banks,21,True,False,com,hotmail,digits_and_letters,no
+11.0,fulfilled,False,card,VISA 16 digit,Vertex Bancorp,21,True,False,com,hotmail,only_numbers,no
+12.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,21,True,True,weird,weird,digits_and_letters,no
+30.0,fulfilled,False,card,Mastercard,Her Majesty Trust,21,False,False,com,hotmail,only_numbers,no
+49.0,fulfilled,False,paypal,JCB 16 digit,Her Majesty Trust,40,True,False,com,other,digits_and_letters,no
+45.0,fulfilled,False,card,VISA 16 digit,Solace Banks,40,False,False,com,yahoo,digits_and_letters,no
+28.0,fulfilled,False,apple pay,VISA 16 digit,a,18,False,False,org,other,only_numbers,no
+10.0,fulfilled,False,bitcoin,JCB 16 digit,Solace Banks,46,False,False,com,hotmail,digits_and_letters,unknown
+45.0,pending,False,card,JCB 16 digit,Bastion Banks,12,False,False,com,other,digits_and_letters,no
+46.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,11,True,False,com,other,only_numbers,no
+16.0,fulfilled,False,card,Voyager,Fountain Financial Inc.,12,False,True,com,gmail,digits_and_letters,no
+43.0,fulfilled,False,card,Voyager,His Majesty Bank Corp.,30,False,False,com,other,only_numbers,unknown
+34.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,49,True,False,com,other,only_numbers,unknown
+19.0,failed,False,card,VISA 16 digit,Rose Bancshares,49,False,False,com,gmail,only_numbers,no
+46.0,fulfilled,False,paypal,JCB 16 digit,Rose Bancshares,45,True,False,org,other,only_numbers,no
+39.0,fulfilled,False,apple pay,Mastercard,His Majesty Bank Corp.,28,True,True,com,gmail,only_numbers,no
+35.0,fulfilled,False,card,American Express,Citizens First Banks,28,False,True,biz,other,only_numbers,no
+46.0,failed,True,bitcoin,Diners Club / Carte Blanche,Rose Bancshares,10,False,False,com,yahoo,only_numbers,no
+50.0,fulfilled,False,paypal,VISA 13 digit, ,45,False,False,com,gmail,digits_and_letters,no
+41.0,fulfilled,False,card,VISA 16 digit,His Majesty Bank Corp.,46,False,False,biz,other,only_numbers,no
+44.0,fulfilled,True,card,American Express,Vertex Bancorp,16,False,True,com,gmail,only_numbers,no
+41.0,fulfilled,False,card,VISA 16 digit,Grand Credit Corporation,43,True,False,com,yahoo,digits_and_letters,no
+12.0,fulfilled,False,paypal,Maestro,Solace Banks,43,False,False,com,yahoo,digits_and_letters,no
+33.0,fulfilled,False,card,Maestro,Vertex Bancorp,34,True,False,com,other,only_numbers,no
+40.0,fulfilled,True,card,Maestro,Bulwark Trust Corp.,34,False,False,com,gmail,digits_and_letters,no
+34.0,pending,False,card,VISA 16 digit,Vertex Bancorp,19,False,True,com,yahoo,only_numbers,no
+12.0,fulfilled,False,card,Voyager,Vertex Bancorp,46,False,False,biz,other,digits_and_letters,no
+30.0,fulfilled,False,bitcoin,JCB 16 digit,Her Majesty Trust,39,False,True,com,gmail,only_numbers,no
+22.0,fulfilled,False,card,Maestro,Vertex Bancorp,35,False,False,com,gmail,digits_and_letters,no
+11.0,fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,46,False,False,com,hotmail,only_numbers,no
+14.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,50,False,True,com,other,only_numbers,no
+37.0,fulfilled,False,bitcoin,VISA 13 digit,Grand Credit Corporation,41,False,False,com,yahoo,digits_and_letters,no
+42.0,fulfilled,False,card,VISA 16 digit,Fountain Financial Inc.,44,False,True,weird,weird,digits_and_letters,no
+11.0,fulfilled,False,card,Maestro,His Majesty Bank Corp.,41,False,False,com,yahoo,only_numbers,no
+29.0,fulfilled,False,card,VISA 16 digit,Citizens First Banks,12,True,True,com,gmail,digits_and_letters,no
+31.0,fulfilled,False,card,Voyager,Bastion Banks,12,False,True,com,gmail,digits_and_letters,no
+33.0,failed,False,paypal,JCB 15 digit,Solace Banks,33,True,False,com,other,only_numbers,no
+47.0,fulfilled,False,card,JCB 15 digit,Fountain Financial Inc.,33,True,False,net,other,only_numbers,unknown
+25.0,fulfilled,False,card,Maestro,Bastion Banks,33,False,True,com,other,digits_and_letters,no
+25.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,40,False,False,info,other,digits_and_letters,no
+33.0,fulfilled,False,card,Discover,Rose Bancshares,34,False,False,com,hotmail,only_numbers,no
+48.0,failed,False,apple pay,JCB 16 digit,Her Majesty Trust,12,False,False,com,yahoo,digits_and_letters,unknown
+11.0,fulfilled,False,paypal,VISA 16 digit,Bastion Banks,30,True,False,org,other,digits_and_letters,no
+23.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,30,True,False,com,gmail,only_numbers,no
+38.0,fulfilled,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,30,False,False,com,yahoo,digits_and_letters,no
+12.0,fulfilled,False,card,VISA 16 digit,Solace Banks,22,False,False,com,gmail,only_numbers,no
+15.0,failed,False,card,JCB 15 digit,Bastion Banks,11,False,False,net,other,digits_and_letters,no
+11.0,fulfilled,False,card,Discover,Rose Bancshares,14,False,False,com,other,only_numbers,no
+39.0,failed,False,card,American Express,Rose Bancshares,37,False,True,com,other,only_numbers,no
+19.0,fulfilled,False,card,VISA 13 digit,His Majesty Bank Corp.,42,True,True,com,gmail,only_numbers,no
+45.0,fulfilled,False,card,Discover,Bulwark Trust Corp.,42,False,True,com,other,only_numbers,unknown
+50.0,fulfilled,False,paypal,Maestro,Vertex Bancorp,11,False,False,com,hotmail,digits_and_letters,unknown
+42.0,fulfilled,False,apple pay,JCB 16 digit,Bulwark Trust Corp.,29,False,True,com,other,only_numbers,unknown
+10.0,fulfilled,False,paypal,JCB 16 digit,Citizens First Banks,31,False,True,org,other,digits_and_letters,unknown
+30.0,fulfilled,False,apple pay,JCB 16 digit,Citizens First Banks,33,False,True,com,other,only_numbers,unknown
+48.0,failed,False,card,Mastercard,Vertex Bancorp,47,True,True,org,other,only_numbers,no
+42.0,pending,False,card,VISA 16 digit,Rose Bancshares,47,False,False,com,other,digits_and_letters,no
+29.0,fulfilled,False,apple pay,VISA 16 digit,Her Majesty Trust,25,False,False,com,gmail,only_numbers,no
+65.0,failed,False,card,American Express,Solace Banks,25,True,True,com,hotmail,only_numbers,no
+75.0,pending,False,card,Maestro,Solace Banks,25,False,False,com,gmail,only_numbers,no
+58.0,fulfilled,False,card,JCB 15 digit,Citizens First Banks,33,False,True,com,hotmail,digits_and_letters,yes
+58.0,fulfilled,False,card,JCB 16 digit,Vertex Bancorp,48,False,False,com,other,only_numbers,no
+32.0,fulfilled,False,card,Diners Club / Carte Blanche,Vertex Bancorp,11,True,False,com,other,digits_and_letters,no
+36.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,11,False,True,com,other,only_numbers,no
+14.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,23,False,False,com,other,digits_and_letters,no
+15.0,fulfilled,True,card,Maestro,His Majesty Bank Corp.,38,False,False,com,hotmail,only_numbers,no
+46.0,fulfilled,False,card,Voyager,Fountain Financial Inc.,12,True,True,biz,other,digits_and_letters,no
+18.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,12,True,True,com,hotmail,only_numbers,unknown
+30.0,failed,False,card,JCB 16 digit,Vertex Bancorp,12,False,True,com,gmail,digits_and_letters,no
+16.0,fulfilled,False,card,Mastercard,Grand Credit Corporation,15,True,True,com,other,only_numbers,no
+30.0,fulfilled,True,card,VISA 13 digit,Citizens First Banks,15,False,False,com,yahoo,only_numbers,no
+38.0,fulfilled,False,card,American Express,Grand Credit Corporation,11,False,False,com,gmail,digits_and_letters,no
+49.0,fulfilled,False,card,Maestro,Fountain Financial Inc.,39,False,True,net,other,digits_and_letters,no
+29.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,19,True,True,com,other,digits_and_letters,no
+20.0,fulfilled,False,card,Diners Club / Carte Blanche,Citizens First Banks,19,False,True,com,yahoo,digits_and_letters,no
+40.0,fulfilled,False,card,JCB 16 digit,His Majesty Bank Corp.,45,False,True,info,other,only_numbers,no
+44.0,fulfilled,False,card,American Express,Grand Credit Corporation,50,False,False,com,gmail,only_numbers,no
+10.0,fulfilled,False,paypal,JCB 16 digit,His Majesty Bank Corp.,42,False,False,info,other,digits_and_letters,no
+34.0,fulfilled,False,card,VISA 16 digit,Citizens First Banks,10,False,True,weird,weird,only_numbers,no
+39.0,fulfilled,False,paypal,VISA 13 digit,Fountain Financial Inc.,30,True,False,com,hotmail,only_numbers,unknown
+49.0,fulfilled,False,card,American Express,Bastion Banks,30,False,False,org,other,only_numbers,no
+29.0,fulfilled,False,bitcoin,Discover,B,48,True,False,com,gmail,only_numbers,unknown
+25.0,fulfilled,False,card,Voyager,r,48,False,True,info,other,digits_and_letters,unknown
+14.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,42,True,False,com,yahoo,only_numbers,unknown
+32.0,failed,False,card,JCB 15 digit,Vertex Bancorp,42,False,False,com,other,digits_and_letters,no
+21.0,fulfilled,False,card,JCB 16 digit,Grand Credit Corporation,29,False,True,com,gmail,only_numbers,no
+10.0,fulfilled,True,bitcoin,Discover,Bulwark Trust Corp.,65,False,False,com,other,digits_and_letters,no
+11.0,fulfilled,False,card,Discover,Her Majesty Trust,75,False,False,org,other,digits_and_letters,no
+47.0,fulfilled,False,card,Mastercard,His Majesty Bank Corp.,58,True,False,com,yahoo,only_numbers,no
+50.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,58,False,True,com,other,only_numbers,no
+39.0,fulfilled,True,card,JCB 15 digit,Fountain Financial Inc.,58,False,True,com,other,digits_and_letters,unknown
+18.0,fulfilled,False,card,VISA 13 digit,Fountain Financial Inc.,32,False,True,com,yahoo,digits_and_letters,no
+29.0,fulfilled,False,card,Voyager,Rose Bancshares,36,False,False,com,other,digits_and_letters,no
+41.0,pending,False,card,VISA 13 digit,Vertex Bancorp,14,True,False,com,yahoo,digits_and_letters,unknown
+45.0,fulfilled,False,card,Diners Club / Carte Blanche,Solace Banks,14,False,False,com,yahoo,only_numbers,no
+22.0,fulfilled,True,card,VISA 13 digit,Citizens First Banks,15,False,False,com,other,digits_and_letters,no
+29.0,fulfilled,False,paypal,Diners Club / Carte Blanche,His Majesty Bank Corp.,46,False,True,biz,other,only_numbers,no
+51.0,fulfilled,False,apple pay,VISA 13 digit,Rose Bancshares,18,False,False,net,other,digits_and_letters,no
+36.0,fulfilled,False,paypal,VISA 16 digit,Vertex Bancorp,30,False,False,com,yahoo,only_numbers,no
+60.0,fulfilled,False,card,Maestro,Bastion Banks,16,True,True,com,hotmail,digits_and_letters,unknown
+52.0,fulfilled,False,card,Discover,Her Majesty Trust,16,False,False,com,hotmail,digits_and_letters,no
+68.0,fulfilled,True,bitcoin,JCB 16 digit,Bastion Banks,30,False,False,com,other,digits_and_letters,unknown
+51.0,fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,38,False,False,com,yahoo,digits_and_letters,unknown
+31.0,fulfilled,True,bitcoin,Discover,Fountain Financial Inc.,49,False,True,com,gmail,digits_and_letters,no
+36.0,fulfilled,False,card,Discover,Her Majesty Trust,29,False,False,com,other,only_numbers,no
+42.0,fulfilled,True,card,VISA 16 digit,Fountain Financial Inc.,20,False,False,biz,other,only_numbers,no
+35.0,fulfilled,False,card,Maestro,His Majesty Bank Corp.,40,False,True,com,other,only_numbers,no
+17.0,fulfilled,False,card,VISA 16 digit,Bulwark Trust Corp.,44,True,False,biz,other,digits_and_letters,no
+33.0,failed,False,card,Voyager,Her Majesty Trust,44,False,False,com,hotmail,only_numbers,no
+353.0,fulfilled,True,card,Maestro,Citizens First Banks,10,False,False,com,other,digits_and_letters,no
+17.0,fulfilled,True,card,Diners Club / Carte Blanche,Solace Banks,34,True,False,com,hotmail,only_numbers,no
+24.0,fulfilled,False,card,VISA 16 digit,Grand Credit Corporation,34,False,True,com,other,only_numbers,no
+35.0,pending,False,card,Voyager,Her Majesty Trust,39,False,False,com,gmail,digits_and_letters,no
+32.0,fulfilled,False,card,JCB 16 digit,Bulwark Trust Corp.,49,False,False,com,yahoo,only_numbers,unknown
+36.0,fulfilled,False,bitcoin,VISA 16 digit,Vertex Bancorp,29,False,True,com,hotmail,only_numbers,no
+41.0,fulfilled,True,apple pay,American Express,Bastion Banks,25,True,False,com,gmail,only_numbers,unknown
+19.0,failed,False,apple pay,Diners Club / Carte Blanche,Citizens First Banks,25,False,False,com,yahoo,only_numbers,no
+20.0,fulfilled,False,card,JCB 16 digit,Bulwark Trust Corp.,14,True,False,com,hotmail,digits_and_letters,no
+37.0,fulfilled,False,card,VISA 16 digit,Fountain Financial Inc.,14,True,False,org,other,digits_and_letters,no
+14.0,fulfilled,False,apple pay,VISA 16 digit,Solace Banks,14,True,False,com,hotmail,digits_and_letters,no
+49.0,fulfilled,True,card,American Express,Solace Banks,14,True,False,com,other,digits_and_letters,no
+43.0,fulfilled,False,card,JCB 16 digit,Grand Credit Corporation,14,False,True,weird,weird,digits_and_letters,no
+31.0,fulfilled,False,card,Voyager,Citizens First Banks,32,True,False,net,other,only_numbers,no
+46.0,fulfilled,False,card,VISA 16 digit,Vertex Bancorp,32,False,True,biz,other,digits_and_letters,no
+16.0,fulfilled,False,card,Diners Club / Carte Blanche,Vertex Bancorp,21,False,False,com,gmail,digits_and_letters,unknown
+15.0,fulfilled,False,apple pay,VISA 13 digit,Fountain Financial Inc.,10,True,True,com,gmail,digits_and_letters,no
+18.0,failed,False,card,JCB 16 digit,Citizens First Banks,10,True,False,com,gmail,digits_and_letters,unknown
+16.0,fulfilled,True,card,JCB 15 digit,Grand Credit Corporation,10,False,False,com,other,digits_and_letters,no
+39.0,pending,True,card,American Express,Rose Bancshares,11,True,False,com,other,only_numbers,unknown
+37.0,fulfilled,False,card,JCB 16 digit,Solace Banks,11,False,False,com,other,only_numbers,no
+12.0,failed,False,apple pay,VISA 16 digit,Vertex Bancorp,47,True,True,com,yahoo,digits_and_letters,no
+48.0,failed,True,apple pay,VISA 16 digit,Bulwark Trust Corp.,47,False,True,com,other,digits_and_letters,no
+41.0,fulfilled,False,card,Voyager,Her Majesty Trust,50,False,False,net,other,digits_and_letters,no
+29.0,fulfilled,False,card,VISA 13 digit,Fountain Financial Inc.,39,False,True,com,other,only_numbers,no
+22.0,fulfilled,False,apple pay,VISA 13 digit,Vertex Bancorp,18,True,True,biz,other,only_numbers,no
+44.0,fulfilled,False,card,Discover,c,18,False,True,com,gmail,digits_and_letters,no
+43.0,failed,False,bitcoin,VISA 13 digit, ,29,False,True,com,other,only_numbers,no
+41.0,fulfilled,False,card,Mastercard,Rose Bancshares,41,True,False,com,other,only_numbers,no
+16.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,41,False,,weird,weird,only_numbers,unknown
+37.0,failed,False,apple pay,Discover,Bulwark Trust Corp.,45,False,,weird,weird,only_numbers,unknown
+31.0,fulfilled,False,card,JCB 16 digit,Solace Banks,22,False,,weird,weird,only_numbers,unknown
+24.0,fulfilled,True,card,JCB 16 digit,Fountain Financial Inc.,29,False,,weird,weird,only_numbers,unknown
+11.0,fulfilled,False,card,JCB 15 digit,Vertex Bancorp,51,True,,weird,weird,only_numbers,unknown
+42.0,fulfilled,False,paypal,Maestro,Solace Banks,51,False,,weird,weird,only_numbers,unknown
+37.0,fulfilled,True,bitcoin,Discover,Grand Credit Corporation,36,False,,weird,weird,only_numbers,unknown
+30.0,fulfilled,False,card,Voyager,Her Majesty Trust,60,False,,weird,weird,only_numbers,unknown
+12.0,fulfilled,False,card,Mastercard,Bulwark Trust Corp.,52,False,,weird,weird,only_numbers,unknown
+16.0,fulfilled,True,card,Diners Club / Carte Blanche,Vertex Bancorp,68,False,,weird,weird,only_numbers,unknown
+14.0,fulfilled,False,paypal,VISA 16 digit,Grand Credit Corporation,51,False,,weird,weird,only_numbers,unknown
+23.0,fulfilled,False,card,Voyager,Grand Credit Corporation,31,False,,weird,weird,only_numbers,unknown
+50.0,fulfilled,False,card,Maestro,Rose Bancshares,36,False,,weird,weird,only_numbers,unknown
+34.0,fulfilled,False,card,JCB 15 digit,Rose Bancshares,42,False,,weird,weird,only_numbers,unknown
+43.0,fulfilled,False,bitcoin,Maestro,Bastion Banks,35,True,,weird,weird,only_numbers,unknown
+15.0,failed,False,card,VISA 13 digit,Bastion Banks,35,False,,weird,weird,only_numbers,unknown
+48.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,17,True,,weird,weird,only_numbers,unknown
+45.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,17,True,,weird,weird,only_numbers,unknown
+13.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,17,True,,weird,weird,only_numbers,unknown
+14.0,fulfilled,False,card,Voyager,Her Majesty Trust,17,False,,weird,weird,only_numbers,unknown
+49.0,pending,True,card,VISA 16 digit,Her Majesty Trust,33,False,,weird,weird,only_numbers,unknown
+25.0,fulfilled,True,apple pay,Voyager,Bastion Banks,353,True,,weird,weird,only_numbers,unknown
+41.0,fulfilled,False,bitcoin,Mastercard,Vertex Bancorp,17,False,,weird,weird,only_numbers,unknown
+25.0,fulfilled,False,apple pay,Voyager,Fountain Financial Inc.,24,True,,weird,weird,only_numbers,unknown
+45.0,failed,False,card,JCB 16 digit,Her Majesty Trust,24,False,,weird,weird,only_numbers,unknown
+15.0,fulfilled,False,apple pay,Diners Club / Carte Blanche,Bastion Banks,35,False,,weird,weird,only_numbers,unknown
+34.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,32,False,,weird,weird,only_numbers,unknown
+22.0,fulfilled,False,card,VISA 16 digit,Vertex Bancorp,36,True,,weird,weird,only_numbers,unknown
+21.0,fulfilled,True,paypal,JCB 16 digit,Bastion Banks,36,True,,weird,weird,only_numbers,unknown
+35.0,fulfilled,False,paypal,Maestro,n,36,True,,weird,weird,only_numbers,unknown
+20.0,fulfilled,False,card,Voyager,r,41,False,,weird,weird,only_numbers,unknown
+41.0,fulfilled,False,bitcoin,Mastercard,e,19,True,,weird,weird,only_numbers,unknown
+34.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,19,False,,weird,weird,only_numbers,unknown
+32.0,fulfilled,False,card,Discover,His Majesty Bank Corp.,20,False,,weird,weird,only_numbers,unknown
+13.0,fulfilled,False,apple pay,Voyager,Her Majesty Trust,37,True,,weird,weird,only_numbers,unknown
+10.0,fulfilled,False,card,JCB 15 digit,His Majesty Bank Corp.,37,True,,weird,weird,only_numbers,unknown
+18.0,fulfilled,False,bitcoin,JCB 16 digit,Fountain Financial Inc.,37,False,,weird,weird,only_numbers,unknown
+46.0,fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,14,False,,weird,weird,only_numbers,unknown
+72.0,fulfilled,False,card,Diners Club / Carte Blanche,e,49,False,,weird,weird,only_numbers,unknown
+50.0,fulfilled,False,card,Voyager,Bulwark Trust Corp.,43,False,,weird,weird,only_numbers,unknown
+42.0,failed,True,paypal,Mastercard,B,31,False,,weird,weird,only_numbers,unknown
+56.0,fulfilled,False,apple pay,American Express,Rose Bancshares,46,False,,weird,weird,only_numbers,unknown
+30.0,pending,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,16,False,,weird,weird,only_numbers,unknown
+40.0,fulfilled,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,15,False,,weird,weird,only_numbers,unknown
+34.0,fulfilled,True,card,VISA 16 digit,Fountain Financial Inc.,18,False,,weird,weird,only_numbers,unknown
+47.0,fulfilled,False,paypal,Discover,Her Majesty Trust,16,False,,weird,weird,only_numbers,unknown
+31.0,fulfilled,True,card,JCB 15 digit,Citizens First Banks,39,False,,weird,weird,only_numbers,unknown
+28.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,37,False,,weird,weird,only_numbers,unknown
+11.0,fulfilled,True,card,Voyager,His Majesty Bank Corp.,12,False,,weird,weird,only_numbers,unknown
+27.0,fulfilled,False,card,American Express,Bulwark Trust Corp.,48,True,,weird,weird,only_numbers,unknown
+19.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,48,False,,weird,weird,only_numbers,unknown
+17.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,41,False,,weird,weird,only_numbers,unknown
+27.0,fulfilled,False,bitcoin,JCB 15 digit,B,29,False,,weird,weird,only_numbers,unknown
+46.0,fulfilled,False,card,VISA 16 digit,c,22,False,,weird,weird,only_numbers,unknown
+46.0,pending,False,card,VISA 16 digit,Bulwark Trust Corp.,44,False,,weird,weird,only_numbers,unknown
+59.0,fulfilled,False,card,JCB 16 digit,Grand Credit Corporation,43,True,,weird,weird,only_numbers,unknown
+71.0,fulfilled,False,card,Voyager,Grand Credit Corporation,43,True,,weird,weird,only_numbers,unknown
+75.0,fulfilled,False,card,VISA 13 digit,Citizens First Banks,41,False,,weird,weird,only_numbers,unknown
+56.0,fulfilled,False,card,Mastercard,Grand Credit Corporation,16,True,,weird,weird,only_numbers,unknown
+48.0,pending,False,card,VISA 13 digit,Her Majesty Trust,16,True,,weird,weird,only_numbers,unknown
+55.0,fulfilled,False,card,JCB 16 digit,Rose Bancshares,16,False,,weird,weird,only_numbers,unknown
+67.0,pending,False,paypal,Voyager,Grand Credit Corporation,37,False,,weird,weird,only_numbers,unknown
+40.0,failed,False,card,JCB 15 digit,Fountain Financial Inc.,31,True,,weird,weird,only_numbers,unknown
+70.0,fulfilled,False,apple pay,JCB 16 digit,Fountain Financial Inc.,31,False,,weird,weird,only_numbers,unknown
+52.0,fulfilled,False,card,VISA 13 digit,His Majesty Bank Corp.,24,True,,weird,weird,only_numbers,unknown
+73.0,fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,24,False,,weird,weird,only_numbers,unknown
+43.0,failed,False,paypal,JCB 16 digit,Vertex Bancorp,11,True,,weird,weird,only_numbers,unknown
+45.0,fulfilled,False,apple pay,Voyager,Vertex Bancorp,11,False,,weird,weird,only_numbers,unknown
+15.0,failed,False,card,Discover,Grand Credit Corporation,42,False,,weird,weird,only_numbers,unknown
+16.0,fulfilled,False,card,Maestro,His Majesty Bank Corp.,37,False,,weird,weird,only_numbers,unknown
+39.0,fulfilled,False,paypal,Maestro,Fountain Financial Inc.,30,True,,weird,weird,only_numbers,unknown
+40.0,fulfilled,False,bitcoin,American Express,c,30,False,,weird,weird,only_numbers,unknown
+33.0,failed,False,card,JCB 16 digit,r,12,False,,weird,weird,only_numbers,unknown
+50.0,fulfilled,False,card,VISA 16 digit,n,16,True,,weird,weird,only_numbers,unknown
+36.0,fulfilled,False,card,VISA 16 digit,Grand Credit Corporation,14,False,,weird,weird,only_numbers,unknown
+35.0,failed,False,card,JCB 16 digit,Grand Credit Corporation,23,False,,weird,weird,only_numbers,unknown
+46.0,fulfilled,False,card,VISA 16 digit,Solace Banks,50,False,,weird,weird,only_numbers,unknown
+49.0,fulfilled,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,34,False,,weird,weird,only_numbers,unknown
+16.0,fulfilled,False,card,JCB 15 digit,His Majesty Bank Corp.,43,True,,weird,weird,only_numbers,unknown
+36.0,fulfilled,True,bitcoin,VISA 16 digit,Fountain Financial Inc.,43,False,,weird,weird,only_numbers,unknown
+15.0,fulfilled,False,card,VISA 16 digit,His Majesty Bank Corp.,15,False,,weird,weird,only_numbers,unknown
+43.0,fulfilled,False,card,Voyager,Solace Banks,48,True,,weird,weird,only_numbers,unknown
+36.0,fulfilled,False,card,JCB 16 digit,Rose Bancshares,48,False,,weird,weird,only_numbers,unknown
+11.0,fulfilled,False,card,Diners Club / Carte Blanche,Solace Banks,45,False,,weird,weird,only_numbers,unknown
+27.0,fulfilled,False,bitcoin,Discover,Bulwark Trust Corp.,13,False,,weird,weird,only_numbers,unknown
+31.0,fulfilled,False,card,Maestro,Citizens First Banks,14,False,,weird,weird,only_numbers,unknown
+33.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,49,True,,weird,weird,only_numbers,unknown
+46.0,fulfilled,False,card,VISA 16 digit,Citizens First Banks,49,False,,weird,weird,only_numbers,unknown
+12.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,25,False,,weird,weird,only_numbers,unknown
+32.0,fulfilled,False,card,American Express,Bastion Banks,41,True,,weird,weird,only_numbers,unknown
+20.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,41,False,,weird,weird,only_numbers,unknown
+21.0,fulfilled,False,card,Voyager,His Majesty Bank Corp.,25,True,,weird,weird,only_numbers,unknown
+14.0,fulfilled,False,card,JCB 15 digit,Rose Bancshares,45,False,,weird,weird,only_numbers,unknown
+22.0,fulfilled,False,paypal,Mastercard,Solace Banks,15,False,,weird,weird,only_numbers,unknown
+22.0,pending,False,bitcoin,Diners Club / Carte Blanche,Her Majesty Trust,34,False,,weird,weird,only_numbers,unknown
+14.0,fulfilled,False,bitcoin,VISA 16 digit,B,22,False,,weird,weird,only_numbers,unknown
+36.0,fulfilled,False,paypal,Mastercard,Her Majesty Trust,21,True,,weird,weird,only_numbers,unknown
+60.0,fulfilled,False,card,JCB 16 digit,Bulwark Trust Corp.,21,False,,weird,weird,only_numbers,unknown
+57.0,fulfilled,False,card,Discover,Rose Bancshares,35,False,,weird,weird,only_numbers,unknown
+59.0,fulfilled,False,apple pay,Voyager,Fountain Financial Inc.,20,False,,weird,weird,only_numbers,unknown
+64.0,fulfilled,False,card,VISA 16 digit,Solace Banks,41,False,,weird,weird,only_numbers,unknown
+54.0,fulfilled,False,apple pay,Voyager,His Majesty Bank Corp.,34,True,,weird,weird,only_numbers,unknown
+55.0,fulfilled,False,paypal,JCB 16 digit,Her Majesty Trust,34,True,,weird,weird,only_numbers,unknown
+47.0,failed,True,paypal,Voyager,Vertex Bancorp,34,False,,weird,weird,only_numbers,unknown
+74.0,fulfilled,False,card,Mastercard,Solace Banks,32,False,,weird,weird,only_numbers,unknown
+57.0,fulfilled,False,card,Diners Club / Carte Blanche,Citizens First Banks,13,False,,weird,weird,only_numbers,unknown
+57.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,10,False,,weird,weird,only_numbers,unknown
+53.0,fulfilled,True,card,JCB 16 digit,Fountain Financial Inc.,18,False,,weird,weird,only_numbers,unknown
+61.0,fulfilled,False,card,VISA 13 digit,Bulwark Trust Corp.,46,False,,weird,weird,only_numbers,unknown
+67.0,fulfilled,False,card,Mastercard,Bulwark Trust Corp.,72,False,,weird,weird,only_numbers,unknown
+47.0,fulfilled,False,card,Discover,Solace Banks,50,False,,weird,weird,only_numbers,unknown
+36.0,fulfilled,False,card,Maestro,e,42,True,,weird,weird,only_numbers,unknown
+17.0,fulfilled,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,42,False,,weird,weird,only_numbers,unknown
+25.0,fulfilled,False,card,Voyager,Bastion Banks,56,False,,weird,weird,only_numbers,unknown
+30.0,fulfilled,False,card,VISA 13 digit,Bastion Banks,30,False,,weird,weird,only_numbers,unknown
+41.0,fulfilled,False,card,Maestro,Her Majesty Trust,40,False,,weird,weird,only_numbers,unknown
+10.0,pending,False,paypal,Voyager,Fountain Financial Inc.,34,False,,weird,weird,only_numbers,unknown
+38.0,fulfilled,False,card,Voyager,Solace Banks,47,False,,weird,weird,only_numbers,unknown
+32.0,fulfilled,False,card,JCB 16 digit,Solace Banks,31,False,,weird,weird,only_numbers,unknown
+18.0,fulfilled,False,paypal,Maestro,Bulwark Trust Corp.,28,False,,weird,weird,only_numbers,unknown
+11.0,fulfilled,False,card,Maestro,Vertex Bancorp,11,False,,weird,weird,only_numbers,unknown
+47.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,27,True,,weird,weird,only_numbers,unknown
+17.0,pending,False,card,Diners Club / Carte Blanche,Grand Credit Corporation,27,False,,weird,weird,only_numbers,unknown
+72.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,19,False,,weird,weird,only_numbers,unknown
+60.0,fulfilled,False,card,Diners Club / Carte Blanche,Rose Bancshares,17,False,,weird,weird,only_numbers,unknown
+42.0,fulfilled,True,card,VISA 13 digit,His Majesty Bank Corp.,27,True,,weird,weird,only_numbers,unknown
+33.0,pending,False,card,Diners Club / Carte Blanche,Vertex Bancorp,46,False,,weird,weird,only_numbers,unknown
+33.0,fulfilled,False,card,Maestro,Grand Credit Corporation,46,False,,weird,weird,only_numbers,unknown
+35.0,fulfilled,False,bitcoin,Diners Club / Carte Blanche,His Majesty Bank Corp.,59,True,,weird,weird,only_numbers,unknown
+40.0,fulfilled,False,card,VISA 13 digit,Rose Bancshares,59,False,,weird,weird,only_numbers,unknown
+36.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,71,False,,weird,weird,only_numbers,unknown
+66.0,fulfilled,True,card,Discover,Her Majesty Trust,75,False,,weird,weird,only_numbers,unknown
+46.0,failed,False,apple pay,VISA 13 digit,His Majesty Bank Corp.,56,True,,weird,weird,only_numbers,unknown
+47.0,failed,False,card,Diners Club / Carte Blanche,Bastion Banks,56,False,,weird,weird,only_numbers,unknown
+72.0,fulfilled,False,card,American Express,Citizens First Banks,48,False,,weird,weird,only_numbers,unknown
+17.0,fulfilled,False,card,VISA 13 digit,Bastion Banks,55,False,,weird,weird,only_numbers,unknown
+46.0,fulfilled,False,paypal,American Express,Her Majesty Trust,67,True,,weird,weird,only_numbers,unknown
+42.0,fulfilled,False,paypal,Mastercard,Bastion Banks,67,False,,weird,weird,only_numbers,unknown
+36.0,failed,False,card,Maestro,Rose Bancshares,40,False,,weird,weird,only_numbers,unknown
+10.0,fulfilled,False,paypal,Diners Club / Carte Blanche,Citizens First Banks,70,False,,weird,weird,only_numbers,unknown
+30.0,fulfilled,False,apple pay,American Express,Citizens First Banks,52,False,,weird,weird,only_numbers,unknown
+42.0,fulfilled,False,paypal,VISA 13 digit,B,73,False,,weird,weird,only_numbers,unknown
+21.0,fulfilled,True,card,Maestro,e,43,False,,weird,weird,only_numbers,unknown
+16.0,fulfilled,True,card,VISA 13 digit,Solace Banks,45,False,,weird,weird,only_numbers,unknown
+39.0,fulfilled,False,paypal,JCB 16 digit,Vertex Bancorp,15,True,,weird,weird,only_numbers,unknown
+22.0,fulfilled,False,card,Maestro,Vertex Bancorp,15,False,,weird,weird,only_numbers,unknown
+16.0,pending,False,apple pay,JCB 15 digit,His Majesty Bank Corp.,16,False,,weird,weird,only_numbers,unknown
+45.0,fulfilled,False,apple pay,Maestro,Grand Credit Corporation,39,False,,weird,weird,only_numbers,unknown
+13.0,fulfilled,False,card,Discover,Grand Credit Corporation,40,False,,weird,weird,only_numbers,unknown
+74.0,fulfilled,False,card,VISA 13 digit,Bulwark Trust Corp.,33,True,,weird,weird,only_numbers,unknown
+67.0,fulfilled,False,card,Mastercard,Rose Bancshares,33,False,,weird,weird,only_numbers,unknown
+42.0,fulfilled,True,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,50,False,,weird,weird,only_numbers,unknown
+43.0,fulfilled,False,card,VISA 16 digit,o,36,False,,weird,weird,only_numbers,unknown
+12.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,35,False,,weird,weird,only_numbers,unknown
+11.0,fulfilled,False,paypal,VISA 16 digit,Her Majesty Trust,46,False,,weird,weird,only_numbers,unknown
+39.0,fulfilled,False,card,JCB 16 digit,Grand Credit Corporation,49,False,,weird,weird,only_numbers,unknown
+14.0,fulfilled,False,apple pay,VISA 16 digit,Her Majesty Trust,16,False,,weird,weird,only_numbers,unknown
+35.0,failed,False,apple pay,American Express,Her Majesty Trust,36,True,,weird,weird,only_numbers,unknown
+19.0,fulfilled,False,card,JCB 16 digit,His Majesty Bank Corp.,36,True,,weird,weird,only_numbers,unknown
+32.0,fulfilled,False,card,Voyager,B,36,False,,weird,weird,only_numbers,unknown
+35.0,fulfilled,False,card,Discover,o,15,False,,weird,weird,only_numbers,unknown
+14.0,fulfilled,False,card,Voyager,x,43,False,,weird,weird,only_numbers,unknown
+39.0,fulfilled,False,card,JCB 16 digit,Vertex Bancorp,36,False,,weird,weird,only_numbers,unknown
+74.0,failed,False,card,JCB 16 digit,Fountain Financial Inc.,11,False,,weird,weird,only_numbers,unknown
+46.0,failed,False,card,Diners Club / Carte Blanche,Bastion Banks,27,False,,weird,weird,only_numbers,unknown
+71.0,fulfilled,False,card,Maestro,Citizens First Banks,31,True,,weird,weird,only_numbers,unknown
+45.0,failed,False,bitcoin,JCB 16 digit,Solace Banks,33,False,,weird,weird,only_numbers,unknown
+32.0,fulfilled,False,apple pay,VISA 16 digit,Vertex Bancorp,46,False,,weird,weird,only_numbers,unknown
+44.0,fulfilled,False,card,Voyager,Citizens First Banks,12,True,,weird,weird,only_numbers,unknown
+61.0,fulfilled,False,card,American Express,Bulwark Trust Corp.,12,False,,weird,weird,only_numbers,unknown
+40.0,fulfilled,False,card,JCB 16 digit,His Majesty Bank Corp.,32,False,,weird,weird,only_numbers,unknown
+49.0,fulfilled,False,paypal,JCB 15 digit,Bastion Banks,20,False,,weird,weird,only_numbers,unknown
+46.0,failed,False,card,VISA 13 digit,Vertex Bancorp,21,True,,weird,weird,only_numbers,unknown
+31.0,fulfilled,True,apple pay,VISA 13 digit,Citizens First Banks,14,False,,weird,weird,only_numbers,unknown
+66.0,fulfilled,,,,,22,False,,weird,weird,only_numbers,unknown
+70.0,fulfilled,,,,,22,False,,weird,weird,only_numbers,unknown
+32.0,fulfilled,,,,,14,False,,weird,weird,only_numbers,unknown
+50.0,fulfilled,,,,,36,False,,weird,weird,only_numbers,unknown
+38.0,fulfilled,,,,,60,False,,weird,weird,only_numbers,unknown
+72.0,fulfilled,,,,,57,False,,weird,weird,only_numbers,unknown
+43.0,pending,,,,,59,True,,weird,weird,only_numbers,unknown
+16.0,failed,,,,,64,True,,weird,weird,only_numbers,unknown
+12.0,fulfilled,,,,,64,False,,weird,weird,only_numbers,unknown
+28.0,fulfilled,,,,,54,False,,weird,weird,only_numbers,unknown
+17.0,fulfilled,,,,,55,True,,weird,weird,only_numbers,unknown
+23.0,fulfilled,,,,,55,False,,weird,weird,only_numbers,unknown
+11.0,fulfilled,,,,,47,False,,weird,weird,only_numbers,unknown
+38.0,fulfilled,,,,,74,False,,weird,weird,only_numbers,unknown
+26.0,fulfilled,,,,,57,False,,weird,weird,only_numbers,unknown
+46.0,fulfilled,,,,,57,True,,weird,weird,only_numbers,unknown
+24.0,fulfilled,,,,,57,True,,weird,weird,only_numbers,unknown
+39.0,pending,,,,,57,True,,weird,weird,only_numbers,unknown
+49.0,fulfilled,,,,,53,False,,weird,weird,only_numbers,unknown
+47.0,fulfilled,,,,,61,False,,weird,weird,only_numbers,unknown
+11.0,fulfilled,,,,,67,False,,weird,weird,only_numbers,unknown
+47.0,failed,,,,,47,False,,weird,weird,only_numbers,unknown
+24.0,fulfilled,,,,,36,False,,weird,weird,only_numbers,unknown
+48.0,fulfilled,,,,,17,False,,weird,weird,only_numbers,unknown
+33.0,fulfilled,,,,,25,False,,weird,weird,only_numbers,unknown
+14.0,fulfilled,,,,,30,False,,weird,weird,only_numbers,unknown
+50.0,fulfilled,,,,,41,False,,weird,weird,only_numbers,unknown
+22.0,fulfilled,,,,,10,False,,weird,weird,only_numbers,unknown
+22.0,fulfilled,,,,,38,True,,weird,weird,only_numbers,unknown
+13.0,fulfilled,,,,,38,False,,weird,weird,only_numbers,unknown
+48.0,fulfilled,,,,,32,True,,weird,weird,only_numbers,unknown
+30.0,failed,,,,,32,False,,weird,weird,only_numbers,unknown
+47.0,fulfilled,,,,,18,False,,weird,weird,only_numbers,unknown
+26.0,fulfilled,,,,,11,True,,weird,weird,only_numbers,unknown
+45.0,fulfilled,,,,,11,False,,weird,weird,only_numbers,unknown
+39.0,fulfilled,,,,,47,False,,weird,weird,only_numbers,unknown
+11.0,fulfilled,,,,,17,True,,weird,weird,only_numbers,unknown
+22.0,fulfilled,,,,,72,True,,weird,weird,only_numbers,unknown
+15.0,fulfilled,,,,,72,True,,weird,weird,only_numbers,unknown
+30.0,failed,,,,,60,True,,weird,weird,only_numbers,unknown
+19.0,failed,,,,,60,False,,weird,weird,only_numbers,unknown
+40.0,fulfilled,,,,,42,False,,weird,weird,only_numbers,unknown
+12.0,fulfilled,,,,,33,False,,weird,weird,only_numbers,unknown
+35.0,fulfilled,,,,,33,True,,weird,weird,only_numbers,unknown
+23.0,fulfilled,,,,,33,False,,weird,weird,only_numbers,unknown
+35.0,fulfilled,,,,,35,False,,weird,weird,only_numbers,unknown
+15.0,fulfilled,,,,,40,True,,weird,weird,only_numbers,unknown
+45.0,fulfilled,,,,,40,True,,weird,weird,only_numbers,unknown
+13.0,fulfilled,,,,,40,False,,weird,weird,only_numbers,unknown
+17.0,failed,,,,,36,False,,weird,weird,only_numbers,unknown
+33.0,fulfilled,,,,,66,True,,weird,weird,only_numbers,unknown
+37.0,fulfilled,,,,,46,False,,weird,weird,only_numbers,unknown
+49.0,fulfilled,,,,,47,False,,weird,weird,only_numbers,unknown
+14.0,fulfilled,,,,,72,False,,weird,weird,only_numbers,unknown
+26.0,fulfilled,,,,,17,False,,weird,weird,only_numbers,unknown
+36.0,fulfilled,,,,,46,False,,weird,weird,only_numbers,unknown
+40.0,fulfilled,,,,,42,False,,weird,weird,only_numbers,unknown
+20.0,pending,,,,,36,False,,weird,weird,only_numbers,unknown
+49.0,fulfilled,,,,,10,True,,weird,weird,only_numbers,unknown
+63.0,fulfilled,,,,,10,False,,weird,weird,only_numbers,unknown
+55.0,pending,,,,,30,False,,weird,weird,only_numbers,unknown
+62.0,fulfilled,,,,,42,False,,weird,weird,only_numbers,unknown
+73.0,fulfilled,,,,,21,False,,weird,weird,only_numbers,unknown
+68.0,pending,,,,,16,False,,weird,weird,only_numbers,unknown
+34.0,fulfilled,,,,,39,False,,weird,weird,only_numbers,unknown
+47.0,fulfilled,,,,,22,True,,weird,weird,only_numbers,unknown
+34.0,failed,,,,,22,False,,weird,weird,only_numbers,unknown
+43.0,fulfilled,,,,,16,False,,weird,weird,only_numbers,unknown
+50.0,fulfilled,,,,,45,False,,weird,weird,only_numbers,unknown
+48.0,failed,,,,,13,False,,weird,weird,only_numbers,unknown
+29.0,fulfilled,,,,,74,False,,weird,weird,only_numbers,unknown
+27.0,fulfilled,,,,,67,False,,weird,weird,only_numbers,unknown
+19.0,fulfilled,,,,,42,False,,weird,weird,only_numbers,unknown
+37.0,fulfilled,,,,,43,True,,weird,weird,only_numbers,unknown
+25.0,fulfilled,,,,,12,False,,weird,weird,only_numbers,unknown
+22.0,fulfilled,,,,,11,True,,weird,weird,only_numbers,unknown
+38.0,fulfilled,,,,,11,False,,weird,weird,only_numbers,unknown
+11.0,fulfilled,,,,,39,False,,weird,weird,only_numbers,unknown
+45.0,fulfilled,,,,,14,True,,weird,weird,only_numbers,unknown
+18.0,fulfilled,,,,,14,False,,weird,weird,only_numbers,unknown
+12.0,fulfilled,,,,,35,False,,weird,weird,only_numbers,unknown
+49.0,fulfilled,,,,,19,False,,weird,weird,only_numbers,unknown
+12.0,fulfilled,,,,,32,False,,weird,weird,only_numbers,unknown
+22.0,pending,,,,,35,False,,weird,weird,only_numbers,unknown
+31.0,fulfilled,,,,,14,False,,weird,weird,only_numbers,unknown
+35.0,fulfilled,,,,,39,True,,weird,weird,only_numbers,unknown
+34.0,fulfilled,,,,,39,False,,weird,weird,only_numbers,unknown
+10.0,fulfilled,,,,,74,False,,weird,weird,only_numbers,unknown
+35.0,fulfilled,,,,,46,False,,weird,weird,only_numbers,unknown
+44.0,fulfilled,,,,,71,True,,weird,weird,only_numbers,unknown
+47.0,fulfilled,,,,,45,False,,weird,weird,only_numbers,unknown
+22.0,fulfilled,,,,,32,False,,weird,weird,only_numbers,unknown
+46.0,fulfilled,,,,,44,False,,weird,weird,only_numbers,unknown
+46.0,fulfilled,,,,,61,False,,weird,weird,only_numbers,unknown
+34.0,fulfilled,,,,,40,False,,weird,weird,only_numbers,unknown
+28.0,failed,,,,,49,False,,weird,weird,only_numbers,unknown
+44.0,fulfilled,,,,,46,False,,weird,weird,only_numbers,unknown
+21.0,pending,,,,,31,False,,weird,weird,only_numbers,unknown
+20.0,fulfilled,,,,,66,False,,weird,weird,only_numbers,unknown
+39.0,fulfilled,,,,,70,False,,weird,weird,only_numbers,unknown
+16.0,fulfilled,,,,,32,True,,weird,weird,only_numbers,unknown
+15.0,failed,,,,,32,False,,weird,weird,only_numbers,unknown
+12.0,fulfilled,,,,,50,False,,weird,weird,only_numbers,unknown
+21.0,fulfilled,,,,,38,True,,weird,weird,only_numbers,unknown
+14.0,fulfilled,,,,,38,False,,weird,weird,only_numbers,unknown
+33.0,fulfilled,,,,,72,False,,weird,weird,only_numbers,unknown
+30.0,fulfilled,,,,,43,False,,weird,weird,only_numbers,unknown
+44.0,fulfilled,,,,,16,False,,weird,weird,only_numbers,unknown
+26.0,fulfilled,,,,,12,False,,weird,weird,only_numbers,unknown
+46.0,fulfilled,,,,,28,False,,weird,weird,only_numbers,unknown
+36.0,fulfilled,,,,,17,False,,weird,weird,only_numbers,unknown
+16.0,fulfilled,,,,,23,False,,weird,weird,only_numbers,unknown
+47.0,fulfilled,,,,,11,False,,weird,weird,only_numbers,unknown
+31.0,failed,,,,,38,False,,weird,weird,only_numbers,unknown
+61.0,fulfilled,,,,,26,False,,weird,weird,only_numbers,unknown
+34.0,fulfilled,,,,,46,False,,weird,weird,only_numbers,unknown
+30.0,fulfilled,,,,,24,False,,weird,weird,only_numbers,unknown
+43.0,fulfilled,,,,,39,True,,weird,weird,only_numbers,unknown
+14.0,fulfilled,,,,,39,True,,weird,weird,only_numbers,unknown
+21.0,fulfilled,,,,,39,False,,weird,weird,only_numbers,unknown
+27.0,fulfilled,,,,,49,False,,weird,weird,only_numbers,unknown
+35.0,fulfilled,,,,,47,False,,weird,weird,only_numbers,unknown
+13.0,fulfilled,,,,,11,False,,weird,weird,only_numbers,unknown
+46.0,fulfilled,,,,,47,True,,weird,weird,only_numbers,unknown
+27.0,fulfilled,,,,,47,False,,weird,weird,only_numbers,unknown
+49.0,failed,,,,,24,False,,weird,weird,only_numbers,unknown
+54.0,fulfilled,,,,,48,False,,weird,weird,only_numbers,unknown
+37.0,fulfilled,,,,,33,False,,weird,weird,only_numbers,unknown
+43.0,fulfilled,,,,,14,True,,weird,weird,only_numbers,unknown
+64.0,fulfilled,,,,,14,True,,weird,weird,only_numbers,unknown
+40.0,fulfilled,,,,,14,True,,weird,weird,only_numbers,unknown
+23.0,fulfilled,,,,,14,False,,weird,weird,only_numbers,unknown
+32.0,fulfilled,,,,,50,False,,weird,weird,only_numbers,unknown
+25.0,fulfilled,,,,,22,True,,weird,weird,only_numbers,unknown
+19.0,fulfilled,,,,,22,False,,weird,weird,only_numbers,unknown
+27.0,fulfilled,,,,,22,False,,weird,weird,only_numbers,unknown
+,,,,,,13,False,,weird,weird,only_numbers,unknown
+,,,,,,48,False,,weird,weird,only_numbers,unknown
+,,,,,,30,False,,weird,weird,only_numbers,unknown
+,,,,,,47,False,,weird,weird,only_numbers,unknown
+,,,,,,26,False,,weird,weird,only_numbers,unknown
+,,,,,,45,False,,weird,weird,only_numbers,unknown
+,,,,,,39,False,,weird,weird,only_numbers,unknown
+,,,,,,11,False,,weird,weird,only_numbers,unknown
+,,,,,,22,False,,weird,weird,only_numbers,unknown
+,,,,,,15,False,,weird,weird,only_numbers,unknown
+,,,,,,30,False,,weird,weird,only_numbers,unknown
+,,,,,,19,False,,weird,weird,only_numbers,unknown
+,,,,,,40,False,,weird,weird,only_numbers,unknown
+,,,,,,12,False,,weird,weird,only_numbers,unknown
+,,,,,,35,False,,weird,weird,only_numbers,unknown
+,,,,,,23,True,,weird,weird,only_numbers,unknown
+,,,,,,23,False,,weird,weird,only_numbers,unknown
+,,,,,,35,False,,weird,weird,only_numbers,unknown
+,,,,,,15,False,,weird,weird,only_numbers,unknown
+,,,,,,45,False,,weird,weird,only_numbers,unknown
+,,,,,,13,False,,weird,weird,only_numbers,unknown
+,,,,,,17,False,,weird,weird,only_numbers,unknown
+,,,,,,33,True,,weird,weird,only_numbers,unknown
+,,,,,,33,False,,weird,weird,only_numbers,unknown
+,,,,,,37,False,,weird,weird,only_numbers,unknown
+,,,,,,49,False,,weird,weird,only_numbers,unknown
+,,,,,,14,False,,weird,weird,only_numbers,unknown
+,,,,,,26,False,,weird,weird,only_numbers,unknown
+,,,,,,36,True,,weird,weird,only_numbers,unknown
+,,,,,,36,True,,weird,weird,only_numbers,unknown
+,,,,,,36,True,,weird,weird,only_numbers,unknown
+,,,,,,36,True,,weird,weird,only_numbers,unknown
+,,,,,,36,True,,weird,weird,only_numbers,unknown
+,,,,,,36,False,,weird,weird,only_numbers,unknown
+,,,,,,40,True,,weird,weird,only_numbers,unknown
+,,,,,,40,False,,weird,weird,only_numbers,unknown
+,,,,,,20,True,,weird,weird,only_numbers,unknown
+,,,,,,20,True,,weird,weird,only_numbers,unknown
+,,,,,,20,True,,weird,weird,only_numbers,unknown
+,,,,,,20,True,,weird,weird,only_numbers,unknown
+,,,,,,20,True,,weird,weird,only_numbers,unknown
+,,,,,,20,True,,weird,weird,only_numbers,unknown
+,,,,,,20,False,,weird,weird,only_numbers,unknown
+,,,,,,49,False,,weird,weird,only_numbers,unknown
+,,,,,,63,False,,weird,weird,only_numbers,unknown
+,,,,,,55,True,,weird,weird,only_numbers,unknown
+,,,,,,62,True,,weird,weird,only_numbers,unknown
+,,,,,,62,False,,weird,weird,only_numbers,unknown
+,,,,,,73,False,,weird,weird,only_numbers,unknown
+,,,,,,68,False,,weird,weird,only_numbers,unknown
+,,,,,,34,False,,weird,weird,only_numbers,unknown
+,,,,,,47,False,,weird,weird,only_numbers,unknown
+,,,,,,34,False,,weird,weird,only_numbers,unknown
+,,,,,,43,True,,weird,weird,only_numbers,unknown
+,,,,,,43,False,,weird,weird,only_numbers,unknown
+,,,,,,50,False,,weird,weird,only_numbers,unknown
+,,,,,,48,True,,weird,weird,only_numbers,unknown
+,,,,,,48,True,,weird,weird,only_numbers,unknown
+,,,,,,48,False,,weird,weird,only_numbers,unknown
+,,,,,,29,False,,weird,weird,only_numbers,unknown
+,,,,,,27,False,,weird,weird,only_numbers,unknown
+,,,,,,19,False,,weird,weird,only_numbers,unknown
+,,,,,,37,False,,weird,weird,only_numbers,unknown
+,,,,,,25,False,,weird,weird,only_numbers,unknown
+,,,,,,22,False,,weird,weird,only_numbers,unknown
+,,,,,,38,False,,weird,weird,only_numbers,unknown
+,,,,,,11,False,,weird,weird,only_numbers,unknown
+,,,,,,45,True,,weird,weird,only_numbers,unknown
+,,,,,,45,False,,weird,weird,only_numbers,unknown
+,,,,,,18,False,,weird,weird,only_numbers,unknown
+,,,,,,12,True,,weird,weird,only_numbers,unknown
+,,,,,,12,True,,weird,weird,only_numbers,unknown
+,,,,,,12,True,,weird,weird,only_numbers,unknown
+,,,,,,12,True,,weird,weird,only_numbers,unknown
+,,,,,,12,False,,weird,weird,only_numbers,unknown
+,,,,,,49,False,,weird,weird,only_numbers,unknown
+,,,,,,12,True,,weird,weird,only_numbers,unknown
+,,,,,,12,False,,weird,weird,only_numbers,unknown
+,,,,,,22,True,,weird,weird,only_numbers,unknown
+,,,,,,22,False,,weird,weird,only_numbers,unknown
+,,,,,,31,False,,weird,weird,only_numbers,unknown
+,,,,,,35,False,,weird,weird,only_numbers,unknown
+,,,,,,34,False,,weird,weird,only_numbers,unknown
+,,,,,,10,False,,weird,weird,only_numbers,unknown
+,,,,,,35,True,,weird,weird,only_numbers,unknown
+,,,,,,35,False,,weird,weird,only_numbers,unknown
+,,,,,,44,True,,weird,weird,only_numbers,unknown
+,,,,,,44,False,,weird,weird,only_numbers,unknown
+,,,,,,47,False,,weird,weird,only_numbers,unknown
+,,,,,,22,True,,weird,weird,only_numbers,unknown
+,,,,,,22,False,,weird,weird,only_numbers,unknown
+,,,,,,46,False,,weird,weird,only_numbers,unknown
+,,,,,,46,False,,weird,weird,only_numbers,unknown
+,,,,,,34,False,,weird,weird,only_numbers,unknown
+,,,,,,28,True,,weird,weird,only_numbers,unknown
+,,,,,,28,False,,weird,weird,only_numbers,unknown
+,,,,,,44,False,,weird,weird,only_numbers,unknown
+,,,,,,21,False,,weird,weird,only_numbers,unknown
+,,,,,,20,False,,weird,weird,only_numbers,unknown
+,,,,,,39,False,,weird,weird,only_numbers,unknown
+,,,,,,16,False,,weird,weird,only_numbers,unknown
+,,,,,,15,False,,weird,weird,only_numbers,unknown
+,,,,,,12,False,,weird,weird,only_numbers,unknown
+,,,,,,21,True,,weird,weird,only_numbers,unknown
+,,,,,,21,False,,weird,weird,only_numbers,unknown
+,,,,,,14,True,,weird,weird,only_numbers,unknown
+,,,,,,33,True,,weird,weird,only_numbers,unknown
+,,,,,,33,False,,weird,weird,only_numbers,unknown
+,,,,,,30,False,,weird,weird,only_numbers,unknown
+,,,,,,44,False,,weird,weird,only_numbers,unknown
+,,,,,,26,False,,weird,weird,only_numbers,unknown
+,,,,,,46,True,,weird,weird,only_numbers,unknown
+,,,,,,46,False,,weird,weird,only_numbers,unknown
+,,,,,,36,False,,weird,weird,only_numbers,unknown
+,,,,,,16,False,,weird,weird,only_numbers,unknown
+,,,,,,47,True,,weird,weird,only_numbers,unknown
+,,,,,,47,False,,weird,weird,only_numbers,unknown
+,,,,,,31,False,,weird,weird,only_numbers,unknown
+,,,,,,61,False,,weird,weird,only_numbers,unknown
+,,,,,,34,False,,weird,weird,only_numbers,unknown
+,,,,,,30,False,,weird,weird,only_numbers,unknown
+,,,,,,43,False,,weird,weird,only_numbers,unknown
+,,,,,,14,True,,weird,weird,only_numbers,unknown
+,,,,,,14,False,,weird,weird,only_numbers,unknown
+,,,,,,21,False,,weird,weird,only_numbers,unknown
+,,,,,,27,False,,weird,weird,only_numbers,unknown
+,,,,,,35,False,,weird,weird,only_numbers,unknown
+,,,,,,13,False,,weird,weird,only_numbers,unknown
+,,,,,,46,False,,weird,weird,only_numbers,unknown
+,,,,,,27,False,,weird,weird,only_numbers,unknown
+,,,,,,49,False,,weird,weird,only_numbers,unknown
+,,,,,,54,True,,weird,weird,only_numbers,unknown
+,,,,,,54,False,,weird,weird,only_numbers,unknown
+,,,,,,37,True,,weird,weird,only_numbers,unknown
+,,,,,,37,False,,weird,weird,only_numbers,unknown
+,,,,,,43,False,,weird,weird,only_numbers,unknown
+,,,,,,64,False,,weird,weird,only_numbers,unknown
+,,,,,,40,False,,weird,weird,only_numbers,unknown
+,,,,,,23,False,,weird,weird,only_numbers,unknown
+,,,,,,32,False,,weird,weird,only_numbers,unknown
+,,,,,,25,True,,weird,weird,only_numbers,unknown
+,,,,,,25,True,,weird,weird,only_numbers,unknown
+,,,,,,25,False,,weird,weird,only_numbers,unknown
+,,,,,,19,False,,weird,weird,only_numbers,unknown
+,,,,,,27,False,,weird,weird,only_numbers,unknown
